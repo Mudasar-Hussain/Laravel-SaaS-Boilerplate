@@ -254,4 +254,4 @@ its much easier to know which routes are for tenants.`
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability, please send an e-mail to Cuthbert Mirambo via [miracuthbert@gmail.com](mailto:miracuthbert@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability, please send an e-mail to Cuthbert Mirambo via [mudasar.official@gmail.com](mailto:mudasar.official@gmail.com). All security vulnerabilities will be promptly addressed.
